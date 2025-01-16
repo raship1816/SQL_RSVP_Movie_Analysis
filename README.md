@@ -17,7 +17,8 @@ Understand trends in movie releases, genres, and ratings over time.
 Evaluate performance based on genres, production houses, and languages.
 4.Insightful Queries:
 Answer business-critical questions related to revenue, audience preferences, and release timing.
-5.Dataset Details
+
+## Dataset Details
 The dataset includes the following key tables:
 
 1.movie:
