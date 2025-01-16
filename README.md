@@ -9,12 +9,16 @@ The dataset offers a rich set of attributes, including genres, ratings, worldwid
 
 
 ## Objectives
+
 1.Data Exploration:
 Assess the quality and completeness of the dataset by identifying null values, unique entries, and outliers.
+
 2.Trend Analysis:
 Understand trends in movie releases, genres, and ratings over time.
+
 3.Performance Metrics:
 Evaluate performance based on genres, production houses, and languages.
+
 4.Insightful Queries:
 Answer business-critical questions related to revenue, audience preferences, and release timing.
 
