@@ -97,70 +97,69 @@ Common Table Expressions (CTEs): For modular and efficient query building.
 * Null Values in movie Table:
     Key columns like languages, production_company, and worldwide_gross_income have missing data, impacting some analyses. For example:
       languages: Missing in ~10% of rows.
-  
-      worldwide_gross_income: Missing in ~15% of rows.
+   worldwide_gross_income: Missing in ~15% of rows.
   
 
 ### 2. Movie Trends
 
-*Yearly Trends:
-  *Movies released in 2019 saw the highest count compared to previous years, reflecting an upward production trend.
+* Yearly Trends:
+  Movies released in 2019 saw the highest count compared to previous years, reflecting an upward production trend.
   
-*Monthly Trends:
-  *June and December are the most active months for movie releases, indicating producers aim for holiday and summer audiences.
+ * Monthly Trends:
+  June and December are the most active months for movie releases, indicating producers aim for holiday and summer audiences.
   
 ### 3. Genre Analysis
 
-*Unique Genres:
+* Unique Genres:
   The dataset contains a rich variety of genres, including Action, Drama, Comedy, and Thriller.
   
-*Most Produced Genre:
+* Most Produced Genre:
   The Drama genre leads in movie production overall, followed by Action and Comedy.
   
-*Movies with One Genre:
+* Movies with One Genre:
   A significant percentage of movies (~70%) belong to a single genre, while multi-genre movies are less common.
   
-*Average Duration by Genre:
+* Average Duration by Genre:
   Drama movies are the longest on average (120+ minutes), while Comedy and Thriller movies are shorter (90–100 minutes).
 
 ### 4. Ratings Insights
 
-*Top-Rated Movies:
+* Top-Rated Movies:
   Highly rated movies include The Godfather and Inception, with average ratings exceeding 9.
   
-*Median Ratings:
+* Median Ratings:
   The majority of movies have a median rating of 7, indicating decent audience reception overall.
   
-*Hit Production Houses:
+* Hit Production Houses:
   The top production house consistently delivering hits (average rating > 8) is RSVP Movies.
 
 ### 5. Multilingual and Regional Insights
 
-*Multilingual Movies:
+* Multilingual Movies:
   Multilingual productions tend to receive more votes, likely due to broader appeal. For example:
 German movies average 300 votes more than Italian movies.
 
-*Regional Movies:
+* Regional Movies:
   Indian movies released in March 2017 dominated by drama and action genres, with many surpassing 1,000 votes.
 
 ### 6. Revenue Insights
 
-*Top Grossing Genres:
+* Top Grossing Genres:
   The Action and Adventure genres generate the highest worldwide gross income.
   
-*Top Movies by Revenue:
+* Top Movies by Revenue:
   Blockbusters like Avatar and Avengers: Endgame dominate gross earnings across years.
   
-*Top Revenue-Producing Years:
+* Top Revenue-Producing Years:
   2019 had the highest total revenue among the analyzed years.
   
 ### 7. Recommendations for RSVP Movies
 
-*Focus on Action or Drama genres, as they consistently perform well in terms of ratings and revenue.
+* Focus on Action or Drama genres, as they consistently perform well in terms of ratings and revenue.
 
-*Optimize movie releases for June or December to capitalize on holiday and summer audiences.
+* Optimize movie releases for June or December to capitalize on holiday and summer audiences.
 
-*Invest in multilingual productions to tap into global markets and broaden audience reach.
+* Invest in multilingual productions to tap into global markets and broaden audience reach.
 
-*Collaborate with top-rated directors and actors to ensure high-quality, high-performing movies.
+* Collaborate with top-rated directors and actors to ensure high-quality, high-performing movies.
 
