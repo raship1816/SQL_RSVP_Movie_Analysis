@@ -1,5 +1,5 @@
 # SQL_RSVP_Movie_Analysis
-IMDB Movie Analytics with SQL
+IMDB Movie Analysis with SQL
 ## Project Overview
 This project delves into a comprehensive dataset from IMDB, focusing on analyzing key aspects of movies, genres, directors, actors, and ratings over the past few years. The analysis is designed to assist movie production houses, particularly RSVP Movies, in making informed, data-driven decisions.
 
